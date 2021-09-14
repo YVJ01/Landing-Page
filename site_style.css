@@ -1,0 +1,38 @@
+.header
+{
+    background-color: #1F2937;
+    display: flex;
+    margin: 0;
+    gap: 48px;
+}
+
+.left-link{
+    display: flex;
+    align-items: center;
+    color: white;
+    font-weight: 700;
+    padding:0px 48px;
+}
+
+.right-link{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+    gap: 16px;
+    font-size: 18px;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    color: #e5e7eb;
+    text-decoration: none;
+}
+
+.first{
+    background-color:#1F2937 ;
+}
